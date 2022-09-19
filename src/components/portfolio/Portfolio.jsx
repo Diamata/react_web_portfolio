@@ -32,15 +32,15 @@ const data = [
         id: 4,
         image: IMG4,
         title: 'E-commerce with React',
-        github: 'https://github.com',
-        demo: 'http://dribbble.com'
+        github: 'https://github.com/Diamata',
+        demo: 'https://github.com/Diamata'
     },
     {
         id: 5,
         image: IMG5,
         title: 'This portfolio with React',
-        github: 'https://github.com/Diamata/react-portfolio',
-        demo: 'https://github.com/Diamata/react-portfolio'
+        github: 'https://github.com/Diamata/react_web_portfolio',
+        demo: 'https://github.com/Diamata/react_web_portfolio'
     },
 ];
 
