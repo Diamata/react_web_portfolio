@@ -12,35 +12,35 @@ const data = [
         image: IMG1,
         title: 'Calendar with JavaScript',
         github: 'https://github.com/Diamata/js-calendar',
-        demo: 'https://github.com/Diamata/js-calendar'
+        demo: 'http://176.99.11.170/calendar/'
     },
     {
         id: 2,
         image: IMG2,
         title: 'Todo list with JavaScript',
         github: 'https://github.com/Diamata/js-todolist',
-        demo: 'https://github.com/Diamata/js-todolist'
+        demo: 'http://176.99.11.170/todolist/'
     },
     {
         id: 3,
         image: IMG3,
         title: 'Sticky Notes with JavaScript',
         github: 'https://github.com/Diamata/js-stickers',
-        demo: 'https://github.com/Diamata/js-stickers'
+        demo: 'http://176.99.11.170/stickers/'
     },
     {
         id: 4,
         image: IMG4,
-        title: 'E-commerce with React',
-        github: 'https://github.com/Diamata',
-        demo: 'https://github.com/Diamata'
+        title: 'Pizza store, NextJS, React',
+        github: 'https://github.com/Diamata/react_next_pizza',
+        demo: 'http://176.99.11.170/pizza/'
     },
     {
         id: 5,
         image: IMG5,
         title: 'This portfolio with React',
         github: 'https://github.com/Diamata/react_web_portfolio',
-        demo: 'https://github.com/Diamata/react_web_portfolio'
+        demo: 'http://176.99.11.170/'
     },
 ];
 
