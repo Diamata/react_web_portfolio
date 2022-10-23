@@ -33,7 +33,7 @@ const data = [
         image: IMG4,
         title: 'Pizza store, NextJS, React',
         github: 'https://github.com/Diamata/react_next_pizza',
-        demo: 'http://176.99.11.170/pizza/'
+        demo: 'http://176.99.11.170:88/'
     },
     {
         id: 5,
